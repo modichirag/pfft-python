@@ -39,7 +39,7 @@ To install from PyPI:
 
 .. code::
 
-    easy_install --user pfft-python
+    pip install --user pfft-python
 
 To install from git source
 
